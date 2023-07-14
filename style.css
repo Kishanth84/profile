@@ -1,0 +1,93 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+}
+body{
+    text-align: left;
+    align-items: flex-start;
+    width: 100vw;
+    height: 100vw;
+
+    
+}
+#content{
+    text-align:center;
+    background-color: rgb(202, 199, 199);
+}
+#red{
+    text-align: center;
+    background-color: rgb(0, 225, 255); 
+    color: black;
+    border-radius: 10px;
+    font-size: 30px;
+    flex-wrap: wrap;
+    display: inline;
+    text-align: left;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#head{
+    font-size: 45px;
+    font-style: initial;
+}
+#believe{
+    font-size: 35px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+#topic{
+    font-size: 35px;
+    text-align: center;
+}
+#black{
+    text-align: center;
+    background-color: rgb(190, 0, 0);
+    color: white;
+}
+img{
+    float: left;
+    background-color:  rgb(202, 199, 199);
+}
+p,h6{
+    text-align: left;
+
+}
+#para{
+font-size: 25px;
+
+}
+#top{
+    text-align: left;
+    font-size: 20px;
+    display: inline;
+}
+#bio{
+    font-size: 20px;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+#score{
+    text-align: left;
+}
+#file{
+    text-align: left;
+    height: 20px;
+    width: 350px;
+    flex-direction: row-reverse;
+}
+#h3{
+    text-align: center;
+    color: rgb(3, 63, 3);
+}
+#skill{
+    text-align: center;
+    color: rgb(243, 239, 3);
+    height: 20px;
+    width: 350px;
+    flex-direction: row-reverse;
+}
+#a{
+    justify-content: space-evenly;
+}
